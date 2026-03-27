@@ -114,26 +114,6 @@ Training ML models on datasets to build accurate prediction systems for real-wor
 - MLOps practices (DVC for versioning, MLflow for experiment tracking)[file:1]
 
 
-
-## 💡 Skills & Expertise
-
-const neeraj = {
-  code: ["JavaScript", "TypeScript", "Python", "Java", "HTML", "CSS"],
-  frameworks: {
-    frontend: ["React", "Next.js", "Vite", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "NestJS"],
-    dataScience: ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn"]
-  },
-  databases: ["PostgreSQL", "MongoDB", "Prisma ORM"],
-  tools: ["Docker", "Git", "VS Code", "Postman", "Anaconda", "Jupyter Notebook"],
-  architecture: ["REST APIs", "Modular Design", "MVC Pattern"],
-  currentFocus: "Building scalable ML prediction systems & full-stack web applications"
-};
-
-
-
-
-
 ## 🔥 Profile Insights
 
 ![Profile Views](https://komarev.com/ghpvc/?username=neeraj-ch7&color=blue)
@@ -156,7 +136,7 @@ I'm always open to collaborating on interesting projects or discussing tech. Fee
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/neeraj-ch7)
 - 📧 [Email](mailto:ncs7704@gmail.com)
-- 🌐 [Portfolio](#)
+- 🌐 [Portfolio](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fneeraj-ch7.github.io%2FPortfolio%2F&urlhash=wVtf&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4tucKXRCRHiMl5IXgoJbzA%3D%3D)
 
 ---
 
