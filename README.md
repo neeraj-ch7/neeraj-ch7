@@ -123,9 +123,9 @@ Training ML models on datasets to build accurate prediction systems for real-wor
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZenSensi/ZenSensi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZenSensi/ZenSensi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZenSensi/ZenSensi/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
@@ -136,7 +136,7 @@ I'm always open to collaborating on interesting projects or discussing tech. Fee
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/neeraj-ch7)
 - 📧 [Email](mailto:ncs7704@gmail.com)
-- 🌐 [Portfolio](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fneeraj-ch7.github.io%2FPortfolio%2F&urlhash=wVtf&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4tucKXRCRHiMl5IXgoJbzA%3D%3D)
+- 🌐 [Portfolio](https://neeraj-ch7.github.io/Portfolio/)
 
 ---
 
