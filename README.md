@@ -1,15 +1,170 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm Neeraj Chauhan— a passionate and curious learner with a strong interest in building impactful technology. I enjoy exploring different domains of computer science and continuously improving my skills through hands-on projects and problem-solving.<br><br>💡 What I’m Interested In:<br><br>* 📊 Data Science & Analytics – uncovering insights from data and working with real-world datasets<br>* 🌐 Web Development – building responsive and user-friendly web applications<br>* 📱 App Development – creating efficient and scalable mobile solutions<br><br>🚀 I love working on projects that challenge my thinking and help me grow technically. Along the way, I’ve achieved milestones in my academic and practical journey, and I’m always eager to take on new opportunities to learn and innovate.<br><br>📌 Highlights & Achievements:<br><br>* Actively solving coding problems and improving algorithmic thinking<br>* Building projects across different domains (you can explore them in my repositories!)<br>* Continuously learning new technologies and tools<br><br>✨ I believe in consistency, curiosity, and continuous learning — always striving to turn ideas into reality.<br>
+<h1 align="center">Hi 👋, I'm Neeraj</h1>
+<h3 align="center">Web Developer | Data Scientist | Crafting Scalable Web Applications</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/neeraj-ch7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ncs7704@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/neeraj_ch7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neeraj_iv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj-ch7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Neeraj_Ch_7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ncs7704@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=neeraj-ch7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=neeraj-ch7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj-ch7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 👨‍💻 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🚀 Building **production-ready web applications** with modern tech stacks
+- 🔧 Recently shipped: **Fittrack** - Brief one-line description of your project
+- 🌱 Deep diving into React Native,Expo Router,Node.js,Express.js 
+- 🎯 Focused on **clean architecture, scalable backend design, and great user experiences**
+- 📍 Based in **Lucknow, Uttar Pradesh, India**
+- 📫 Reach me at **ncs7704@gmail.com**
+- ⚡ Fun fact: I turn complex problems into simple, elegant solutions 🚀
+
+
+
+## 🎯 Featured Project: Fittrack
+
+**Tech Stack:** React • Node.js • TypeScript • PostgreSQL • Prisma • Docker
+
+### Key Features Implemented:
+- 🔐 **[Feature 1]** - Email based Authentication system
+- 📧 **[Feature 2]** - Live GPS tracking 
+- 🤖 **[Feature 3]** - Calories management
+- 👨‍💼 **[Feature 4]** - Terretory System
+- 📊 **[Feature 5]** - Weekly/Monthly turnaments
+- 🛡️ **[Feature 6]** - Badges andd Avatar system
+
+### Architecture Highlights:
+- Modular backend with clean service/controller separation
+- Type-safe ORM with migration management
+- Containerized setup with Docker Compose
+- Optimized frontend with server state management
+
+**[View Project →](https://github.com/neeraj-ch7/FitTrack-App)**
+
+
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Data Science & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Currently Exploring
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neeraj-ch7&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=neeraj-ch7&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj-ch7&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
+
+## 🔥 What I'm Building
+
+### 🚀 ML Prediction System (Latest)
+Training ML models on datasets to build accurate prediction systems for real-world applications. Currently working on classification/regression models with data preprocessing, feature engineering, and model evaluation. Built with Python, Scikit-learn, TensorFlow, and production ML pipelines.
+
+**Key Learnings:**
+- End-to-end ML pipeline (data cleaning → feature engineering → model training → evaluation)[file:1]
+- Model selection & hyperparameter tuning with GridSearchCV, cross-validation[file:1]
+- Handling imbalanced datasets (SMOTE, undersampling, class weights)[file:1]
+- Feature engineering & selection (PCA, correlation analysis, domain features)[file:1]
+- Model deployment with Flask/FastAPI REST APIs & Docker containers[file:1]
+- Model monitoring & retraining strategies (drift detection, performance tracking)[file:1]
+- MLOps practices (DVC for versioning, MLflow for experiment tracking)[file:1]
+
+
+
+## 💡 Skills & Expertise
+
+typescript
+const neeraj = {
+  code: ["JavaScript", "TypeScript", "Python", "Java", "HTML", "CSS"],
+  frameworks: {
+    frontend: ["React", "Next.js", "Vite", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "NestJS"],
+    dataScience: ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn"]
+  },
+  databases: ["PostgreSQL", "MongoDB", "Prisma ORM"],
+  tools: ["Docker", "Git", "VS Code", "Postman", "Anaconda", "Jupyter Notebook"],
+  architecture: ["REST APIs", "Modular Design", "MVC Pattern"],
+  currentFocus: "Building scalable ML prediction systems & full-stack web applications"
+};
+
+
+
+
+## 🔥 Profile Insights
+
+![Profile Views](https://komarev.com/ghpvc/?username=neeraj-ch7&color=blue)
+![Followers](https://img.shields.io/github/followers/neeraj-ch7?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/neeraj-ch7?style=social)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/neeraj-ch7)
+- 📧 [Email](mailto:ncs7704@gmail.com)
+- 🌐 [Portfolio](#)
+
+---
+
+## ✨ Quote
+
+> *"Good code is its own best documentation."* — Steve McConnell
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/neeraj-ch7">neeraj-ch7</a></p>
+
