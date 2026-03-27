@@ -117,7 +117,7 @@ Training ML models on datasets to build accurate prediction systems for real-wor
 
 ## 💡 Skills & Expertise
 
-typescript
+  typescript
 const neeraj = {
   code: ["JavaScript", "TypeScript", "Python", "Java", "HTML", "CSS"],
   frameworks: {
