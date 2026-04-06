@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/main/Logo.png" 
      alt="Neeraj Logo" 
-     width="200"/>
+     width="100%"/>
 
 </div>
 <div align="center">
