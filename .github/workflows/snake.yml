@@ -2,16 +2,15 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:         # allows manual run
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    # ✅ Force Node.js 24 (future-proof)
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    permissions:
+      contents: write   # 🔥 THIS FIXES YOUR ISSUE
 
     steps:
       - name: Checkout repository
