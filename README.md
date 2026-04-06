@@ -1,18 +1,33 @@
 <!-- NEERAJ CHAUHAN PROFILE README FILE -->
 
+<picture>
+  <!-- Dark mode -->
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/main/Logo.png" />
 
+  <!-- Light mode -->
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/main/Logo.png" />
+
+  <!-- Fallback -->
+  <img alt="Neeraj Logo" 
+       src="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/main/Logo.png" />
+</picture>
 
 <div align="center">
 
 <picture>
   <!-- Dark mode snake -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/output/github-contribution-grid-snake-dark.svg" />
 
   <!-- Light mode snake -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/output/github-contribution-grid-snake.svg" />
 
   <!-- Fallback -->
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" 
+       src="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
