@@ -2,14 +2,21 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch:         # allows manual run
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
+    # ✅ Force Node.js 24 (future-proof)
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
