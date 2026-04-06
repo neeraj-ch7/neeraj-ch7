@@ -34,7 +34,7 @@
 - 🤖 **[Feature 3]** - Calories management
 - 👨‍💼 **[Feature 4]** - Terretory System
 - 📊 **[Feature 5]** - Weekly/Monthly turnaments
-- 🛡️ **[Feature 6]** - Badges andd Avatar system
+- 🛡️ **[Feature 6]** - Badges and Avatar system
 
 ### Architecture Highlights:
 - Modular backend with clean service/controller separation
