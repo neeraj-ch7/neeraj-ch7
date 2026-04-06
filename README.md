@@ -1,18 +1,25 @@
-<h1 align="center">Hi 👋, I'm Neeraj</h1>
-<h3 align="center">Web Developer | Data Scientist | Crafting Scalable Web Applications</h3>
+<!-- NEERAJ CHAUHAN PROFILE README FILE -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/neeraj-ch7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ncs7704@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b657e672-92f9-4d6c-8213-86715f5c9cbe" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/8b14a132-5d0e-4708-b6bf-43d3345fe226" />
+  <img alt="Neeraj Logo" src="https://github.com/user-attachments/assets/8b14a132-5d0e-4708-b6bf-43d3345fe226" />
+</picture>
 
+<div align="center">
+
+<picture>
+  <!-- Dark mode snake -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/output/github-contribution-grid-snake-dark.svg" />
+
+  <!-- Light mode snake -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/output/github-contribution-grid-snake.svg" />
+
+  <!-- Fallback -->
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 
 ## 👨‍💻 About Me
