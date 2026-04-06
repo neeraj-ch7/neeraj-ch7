@@ -1,18 +1,9 @@
 <!-- NEERAJ CHAUHAN PROFILE README FILE -->
+<div align="center">
 
-<picture>
-  <!-- Dark mode -->
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/main/Logo.png" />
+<img src="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/output/github-contribution-grid-snake.svg" />
 
-  <!-- Light mode -->
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/main/Logo.png" />
-
-  <!-- Fallback -->
-  <img alt="Neeraj Logo" 
-       src="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/main/Logo.png" />
-</picture>
+</div>
 
 <div align="center">
 
