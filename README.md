@@ -16,7 +16,6 @@
 ## 👨‍💻 About Me
 
 - 🚀 Building **production-ready web applications** with modern tech stacks
-- 🔧 Recently shipped: **Fittrack** - Brief one-line description of your project
 - 🌱 Deep diving into React Native,Expo Router,Node.js,Express.js 
 - 🎯 Focused on **clean architecture, scalable backend design, and great user experiences**
 - 📍 Based in **Lucknow, Uttar Pradesh, India**
