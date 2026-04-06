@@ -1,6 +1,13 @@
 <!-- NEERAJ CHAUHAN PROFILE README FILE -->
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/main/Logo.png" 
+     alt="Neeraj Logo" 
+     width="200"/>
+
+</div>
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/neeraj-ch7/neeraj-ch7/output/github-contribution-grid-snake.svg" />
 
 </div>
