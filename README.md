@@ -133,7 +133,7 @@ I'm always open to collaborating on interesting projects or discussing tech. Fee
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/neeraj-ch7)
 - 📧 [Email](mailto:ncs7704@gmail.com)
-- 🌐 [Portfolio](https://neeraj-ch7.github.io/Portfolio/)
+- 🌐 [Portfolio](https://portfolio-n-virid.vercel.app/)
 
 ---
 
