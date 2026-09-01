@@ -91,7 +91,7 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=neeraj-ch7&theme=radical&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj-ch7&layout=compact&theme=radical" alt="Top Languages" />
+ 
 </p>
 
 
