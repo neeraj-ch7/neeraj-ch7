@@ -23,7 +23,7 @@
 - 📊 Experienced in **data processing, ETL, APIs, and real-time data workflows**
 - 📍 Based in **Lucknow, Uttar Pradesh, India**
 - 📫 Reach me at **ncs7704@gmail.com**
-- ⚡ Fun fact: I turn complex problems into simple, elegant solutions 🚀
+- ⚡ Fun fact: I turn complex problems into simple, elegant solutions 
 
 
 ## 🚀 Featured Projects
