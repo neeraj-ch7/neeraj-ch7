@@ -15,100 +15,181 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Building **production-ready web applications** with modern tech stacks
-- 🌱 Deep diving into React Native,Expo Router,Node.js,Express.js 
-- 🎯 Focused on **clean architecture, scalable backend design, and great user experiences**
+- 💻 Computer Science (IoT) student focused on **Backend Development and Software Engineering**
+- 🚀 Building **RESTful APIs and server-side applications** using Node.js, Express.js, and Python
+- 🗄️ Working with **SQL and NoSQL databases** including SQLite, MySQL, MongoDB, and Supabase
+- 🔐 Exploring **authentication, authorization, and JWT-based backend systems**
+- 🧠 Strong foundation in **JavaScript, Java, Python, OOP, DBMS, and Data Structures & Algorithms**
+- 📊 Experienced in **data processing, ETL, APIs, and real-time data workflows**
 - 📍 Based in **Lucknow, Uttar Pradesh, India**
 - 📫 Reach me at **ncs7704@gmail.com**
 - ⚡ Fun fact: I turn complex problems into simple, elegant solutions 🚀
 
 
+## 🚀 Featured Projects
 
-## 🎯 Featured Project: Fittrack
+### 🏛️ Jansunwai AI Portal
 
-**Tech Stack:** React • Node.js • TypeScript • PostgreSQL • Prisma • Docker
+**Tech Stack:** Node.js • Express.js • React.js • Supabase • Gemini • Tailwind CSS
 
-### Key Features Implemented:
-- 🔐 **[Feature 1]** - Email based Authentication system
-- 📧 **[Feature 2]** - Live GPS tracking 
-- 🤖 **[Feature 3]** - Calories management
-- 👨‍💼 **[Feature 4]** - Terretory System
-- 📊 **[Feature 5]** - Weekly/Monthly turnaments
-- 🛡️ **[Feature 6]** - Badges and Avatar system
+A civic grievance platform designed to streamline complaint processing and administrative workflows.
 
-### Architecture Highlights:
-- Modular backend with clean service/controller separation
-- Type-safe ORM with migration management
-- Containerized setup with Docker Compose
-- Optimized frontend with server state management
+### Key Features:
+- 🤖 Automated **complaint classification**
+- 🎯 **Priority scoring** for incoming grievances
+- 🏢 Automated **department routing**
+- ⏱️ **SLA-based escalation**
+- 📊 Real-time **administrative workload analytics**
+- 🔄 **Asynchronous backend processing** for concurrent submissions
+- 🌐 Bilingual citizen notifications
 
-**[View Project →](https://github.com/neeraj-ch7/FitTrack-App)**
+### Backend Highlights:
+- RESTful APIs using **Node.js and Express.js**
+- Structured data integration with **Supabase**
+- Server-side processing for complaint workflows
+- Real-time workload analytics
 
+**[Live Project →](https://janai-1.onrender.com/)**
+
+
+### 🧠 NeuroTrack AI
+
+**Tech Stack:** Python • Flask • OpenCV • Scikit-learn • REST APIs
+
+A real-time multimodal data processing system for analysing behavioural telemetry and generating cognitive-load and productivity insights.
+
+### Key Features:
+- 📈 Real-time behavioural data processing
+- ⌨️ Keystroke and mouse activity analysis
+- 🌐 Browser-context telemetry processing
+- 👁️ Facial feature extraction
+- 🤖 ML-based cognitive-load and fatigue scoring
+- 📊 Productivity analysis and recommendations
+
+### Backend Highlights:
+- Built a **Python Flask REST service**
+- Processed incoming telemetry through server-side APIs
+- Implemented feature extraction and ML inference
+- Designed a real-time data processing workflow
+
+**[Live Project →](https://neurotrackai.vercel.app/)**
 
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+### Backend Development
 
-### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Data Science & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
+
+### Databases
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Authentication & Core
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Core Concepts:**  
+OOP • DBMS • Data Structures & Algorithms • REST APIs • CRUD • Request Validation • Error Handling
+
+
+## 📊 Data & Machine Learning
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+- 🔄 ETL / ELT workflows
+- 🧹 Data cleaning and transformation
+- ✅ Data validation
+- 📊 Data analysis and visualization
+- 🤖 Machine learning model integration with REST APIs
 
-### Currently Exploring
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+## 💼 Experience
+
+### Backend Engineering Intern — FlyRank AI
+
+- Developed and maintained **RESTful APIs** using Node.js and Express.js
+- Integrated **SQLite/SQL** for persistent backend storage
+- Implemented **CRUD operations**, request validation, and error handling
+- Worked with proper **HTTP status codes** and modular API/data layers
+- Used **Git-based version control** in backend development
+
+### Data Analyst Intern — Bluestock Fintech
+
+- Performed data processing, transformation, and validation using **Python, Pandas, SQL, CSV/JSON, and Excel**
+- Worked with structured datasets from multiple sources
+- Built an interactive **Power BI dashboard** for data-driven insights
+
+
+## 🧠 Problem Solving & DSA
+
+- 🏆 **180+ problems solved on LeetCode**
+- 📚 Regular practice across Data Structures & Algorithms
+- 🧩 Strong focus on problem-solving and logical reasoning
+- 👨‍🏫 Curated DSA practice questions and mentored peers in coding
+
+
+## 🏆 Achievements
+
+- 🥇 **APL Hackathon Finalist (Team Lead)** — Advanced from 150+ competing teams to top 24
+- 🇮🇳 **Smart India Hackathon (SIH) 2025** — Participated in rapid full-stack development under national-level competition constraints
+- 👨‍💻 **SWOC 2024 Contributor** — Reviewed code and identified edge cases/test scenarios to strengthen reliability
+
+
+## 📜 Certifications
+
+- ☁️ **AWS APAC Solutions Architecture Job Simulation**
+  - EC2, S3, and core cloud infrastructure design
+- 🤖 **Anthropic — AI Fluency: Framework and Foundations**
+- 🐍 **L&T EduTech — Python Programming & Web Development**
 
 
 ## 📊 GitHub Stats
 
 <p align="center">
- 
+
   <br/>
-  <img src="https://streak-stats.demolab.com?user=neeraj-ch7&theme=radical&hide_border=false" alt="GitHub Streak" />
+
+  <img src="https://streak-stats.demolab.com?user=neeraj-ch7&theme=radical&hide_border=false" 
+       alt="GitHub Streak" />
+
   <br/>
- 
+
 </p>
 
 
+## 🔥 What I'm Currently Building
 
-## 🔥 What I'm Building
+I'm currently focused on building **backend-oriented applications and data-driven systems**, with an emphasis on:
 
-### 🚀 ML Prediction System (Latest)
-Training ML models on datasets to build accurate prediction systems for real-world applications. Currently working on classification/regression models with data preprocessing, feature engineering, and model evaluation. Built with Python, Scikit-learn, TensorFlow, and production ML pipelines.
-
-**Key Learnings:**
-- End-to-end ML pipeline (data cleaning → feature engineering → model training → evaluation)[file:1]
-- Model selection & hyperparameter tuning with GridSearchCV, cross-validation[file:1]
-- Handling imbalanced datasets (SMOTE, undersampling, class weights)[file:1]
-- Feature engineering & selection (PCA, correlation analysis, domain features)[file:1]
-- Model deployment with Flask/FastAPI REST APIs & Docker containers[file:1]
-- Model monitoring & retraining strategies (drift detection, performance tracking)[file:1]
-- MLOps practices (DVC for versioning, MLflow for experiment tracking)[file:1]
+- ⚙️ REST API development
+- 🗄️ Database design and integration
+- 🔐 Authentication & authorization
+- 🔄 Data processing pipelines
+- 🤖 AI/ML API integration
+- 🧩 Clean and modular backend architecture
+- 🚀 Building scalable server-side applications
 
 
 ## 🔥 Profile Insights
@@ -117,17 +198,16 @@ Training ML models on datasets to build accurate prediction systems for real-wor
 ![Followers](https://img.shields.io/github/followers/neeraj-ch7?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/neeraj-ch7?style=social)
 
----
-
-
 
 ## 📫 Let's Connect!
 
-I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out!
+I'm always open to collaborating on interesting projects, backend development, AI-powered applications, and discussing tech.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/neeraj-ch7)
 - 📧 [Email](mailto:ncs7704@gmail.com)
 - 🌐 [Portfolio](https://portfolio-nj-ebon.vercel.app/)
+- 💻 [GitHub](https://github.com/neeraj-ch7)
+- 🧠 [LeetCode](https://leetcode.com/u/neerajch7/)
 
 ---
 
@@ -137,5 +217,7 @@ I'm always open to collaborating on interesting projects or discussing tech. Fee
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/neeraj-ch7">neeraj-ch7</a></p>
-
+<p align="center">
+  ⭐️ From <a href="https://github.com/neeraj-ch7">neeraj-ch7</a>
+</p>
+```
